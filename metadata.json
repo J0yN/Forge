@@ -1,0 +1,6 @@
+{
+  "name": "FORGE",
+  "description": "Turn intentions into execution. AI execution engine transforming messy goals into realistic roadmaps, actionable tasks, and real deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
